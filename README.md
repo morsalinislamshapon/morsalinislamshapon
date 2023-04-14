@@ -1,7 +1,7 @@
 ![Web Development ](https://pbs.twimg.com/profile_banners/1558719784602443776/1681467681/600x200)
 
 ### Hi there 👋, I'm Morsalin Islam 
-#### Web Development 
+#### Web Developer 
 
 
 Hi, I'm Morsalin Islam, a front-end developer with 2 years of experience. I specialize in HTML, CSS, JavaScript, and front-end frameworks like React . My passion is creating visually appealing and intuitive user interfaces.
