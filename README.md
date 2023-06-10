@@ -1,4 +1,3 @@
-![Web Development ]
 
 ### Hi there 👋, I'm Morsalin Islam 
 #### Web Developer 
