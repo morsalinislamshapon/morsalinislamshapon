@@ -1,4 +1,4 @@
-![Web Development ](https://pbs.twimg.com/profile_banners/1558719784602443776/1681467681/600x200)
+![Web Development ]
 
 ### Hi there 👋, I'm Morsalin Islam 
 #### Web Developer 
